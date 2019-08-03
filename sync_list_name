@@ -1,5 +1,5 @@
-proxy-deps
-proxy-init
-routeguide
-strest-grpc
-web
+orca
+rosco
+sampleapp
+spinbot
+spinnaker-monitoring-daemon
