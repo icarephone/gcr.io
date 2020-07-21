@@ -1,7 +1,7 @@
-storage-provisioner-arm64
-storage-provisioner-ppc64le
-storage-provisioner-s390x
-teaparty
-teaparty-skaffold
-tensorflow_grpc
-triage-party
+orca
+restore_cache
+rosco
+sampleapp
+save_cache
+spinbot
+spinnaker-monitoring-daemon
