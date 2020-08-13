@@ -1,8 +1,8 @@
-linkerd-io
-proxy
-proxy-build
-proxy-deps
-proxy-init
-routeguide
-strest-grpc
-web
+monitoring-daemon
+orca
+restore_cache
+rosco
+sampleapp
+save_cache
+spinbot
+spinnaker-monitoring-daemon
